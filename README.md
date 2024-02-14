@@ -1,4 +1,4 @@
-# slashmark_project2
+# slashmark_intermediate_project
 Task 1 : OpenAI Codex  - Saying "Hello" (Python)  -Create random names (Python)  -Create a MySQL query (Python)
 
 print("Hello")
